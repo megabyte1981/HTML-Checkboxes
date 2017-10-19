@@ -18,7 +18,7 @@
     // attributes: [ARRAY] an array of data that needs to be injected inlined on the checkboxes.
     // css: [STRING] list a of classes for styling the checkboxes.
     //======================================================================
-    // Sample 1 parameter array of all options
+    // Sample 1 - parameter array of all options
     //======================================================================
     /*
     $p = array(
@@ -36,7 +36,7 @@
     );
     */
     //======================================================================
-    // Sample 2 parameter array minimal options
+    // Sample 2 - parameter array minimal options
     //======================================================================
     /*
     $p = array(
